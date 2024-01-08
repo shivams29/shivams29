@@ -74,5 +74,3 @@
 - Reading books 📖
 
 </div>
-
-<style>h1 { border-bottom: 0; } </style>
