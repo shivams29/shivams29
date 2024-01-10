@@ -98,21 +98,11 @@
 
 ## Connect with Me 🤝 📫
 <div style="margin-top: 10px;">
-    <a href="https://shivamsaxena.netlify.app/" target="_blank">
-        <img style="margin-right: 8px;" width="95px" src="https://img.shields.io/badge/Portfolio-003322?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTYiIHdpZHRoPSIxNiIgdmlld0JveD0iMCAwIDUxMiA1MTIiPg0KICAgIDwhLS0hRm9udCBBd2Vzb21lIEZyZWUgNi41LjEgYnkgQGZvbnRhd2Vzb21lIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20gTGljZW5zZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tL2xpY2Vuc2UvZnJlZSBDb3B5cmlnaHQgMjAyNCBGb250aWNvbnMsIEluYy4tLT4NCiAgICA8cGF0aCBkPSJNMTg0IDQ4SDMyOGM0LjQgMCA4IDMuNiA4IDhWOTZIMTc2VjU2YzAtNC40IDMuNi04IDgtOHptLTU2IDhWOTZINjRDMjguNyA5NiAwIDEyNC43IDAgMTYwdjk2SDE5MiAzMjAgNTEyVjE2MGMwLTM1LjMtMjguNy02NC02NC02NEgzODRWNTZjMC0zMC45LTI1LjEtNTYtNTYtNTZIMTg0Yy0zMC45IDAtNTYgMjUuMS01NiA1NnpNNTEyIDI4OEgzMjB2MzJjMCAxNy43LTE0LjMgMzItMzIgMzJIMjI0Yy0xNy43IDAtMzItMTQuMy0zMi0zMlYyODhIMFY0MTZjMCAzNS4zIDI4LjcgNjQgNjQgNjRINDQ4YzM1LjMgMCA2NC0yOC43IDY0LTY0VjI4OHoiIGZpbGw9IiNmZmZmZmYiLz4NCjwvc3ZnPg0K" />
-    </a>
-    <a href="https://github.com/shivams29/">
-        <img style="margin-right: 8px;" width="80px" src="https://img.shields.io/badge/Follow-EA4AAA?logo=github" />
-    </a>
-    <a href="https://www.linkedin.com/in/shivam-saxena-038862157/" target="_blank">
-        <img style="margin-right: 8px;" width="100px" src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin" />
-    </a>
-    <a href="https://www.instagram.com/the_art_shack_/">
-        <img style="margin-right: 8px" width="115px" src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" />
-    </a>
-    <a href="mailto:shivamsaxena2906@gmail.com" target="_blank">
-        <img style="margin-right: 8px;" width="80px" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=ffffff" />
-    </a>
+    <a href="https://shivamsaxena.netlify.app/" target="_blank"><img style="margin-right: 8px;" width="95px" src="https://img.shields.io/badge/Portfolio-003322?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTYiIHdpZHRoPSIxNiIgdmlld0JveD0iMCAwIDUxMiA1MTIiPg0KICAgIDwhLS0hRm9udCBBd2Vzb21lIEZyZWUgNi41LjEgYnkgQGZvbnRhd2Vzb21lIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20gTGljZW5zZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tL2xpY2Vuc2UvZnJlZSBDb3B5cmlnaHQgMjAyNCBGb250aWNvbnMsIEluYy4tLT4NCiAgICA8cGF0aCBkPSJNMTg0IDQ4SDMyOGM0LjQgMCA4IDMuNiA4IDhWOTZIMTc2VjU2YzAtNC40IDMuNi04IDgtOHptLTU2IDhWOTZINjRDMjguNyA5NiAwIDEyNC43IDAgMTYwdjk2SDE5MiAzMjAgNTEyVjE2MGMwLTM1LjMtMjguNy02NC02NC02NEgzODRWNTZjMC0zMC45LTI1LjEtNTYtNTYtNTZIMTg0Yy0zMC45IDAtNTYgMjUuMS01NiA1NnpNNTEyIDI4OEgzMjB2MzJjMCAxNy43LTE0LjMgMzItMzIgMzJIMjI0Yy0xNy43IDAtMzItMTQuMy0zMi0zMlYyODhIMFY0MTZjMCAzNS4zIDI4LjcgNjQgNjQgNjRINDQ4YzM1LjMgMCA2NC0yOC43IDY0LTY0VjI4OHoiIGZpbGw9IiNmZmZmZmYiLz4NCjwvc3ZnPg0K" /></a>
+    <a href="https://github.com/shivams29/"><img style="margin-right: 8px;" width="80px" src="https://img.shields.io/badge/Follow-EA4AAA?logo=github" /></a>
+    <a href="https://www.linkedin.com/in/shivam-saxena-038862157/" target="_blank"><img style="margin-right: 8px;" width="100px" src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin" /></a>
+    <a href="https://www.instagram.com/the_art_shack_/"><img style="margin-right: 8px" width="115px" src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" /></a>
+    <a href="mailto:shivamsaxena2906@gmail.com" target="_blank"><img style="margin-right: 8px;" width="80px" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=ffffff" /></a>
 </div>
 
 <br />
